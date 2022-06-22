@@ -58,7 +58,9 @@ body{
     margin: auto;
     background-color: #ccc;
     width: 80%;
-}
+      /* font-family: Arial, sans-serif;  */
+    
+}  
 .contour{
     padding-top: 20px;
     padding-bottom: 20px;
@@ -111,7 +113,7 @@ body{
     background-color: #353e4d;
     padding-right: 1em;
     color: white;
-    padding-top: 35px;
+    padding-top: 15px;
 }
 .tt{
     margin-top: 10px;
